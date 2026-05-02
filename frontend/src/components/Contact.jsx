@@ -195,7 +195,7 @@ export default function Contact() {
                         <Reveal>
                             <form
                                 onSubmit={submit}
-                                className="bg-cream-50 rounded-3xl p-8 md:p-12 border border-sage/10 shadow-[0_8px_30px_rgba(122,139,111,0.06)]"
+                                className="bg-cream-50 rounded-3xl p-8 md:p-12 border border-sage/10 shadow-[0_8px_30px_rgba(184,137,61,0.06)]"
                                 data-testid="contact-form"
                             >
                                 <h3 className="font-serif text-sage text-3xl font-light mb-2">

@@ -42,7 +42,7 @@ export default function Services() {
                         <StaggerItem key={s.id}>
                             <button
                                 onClick={() => setActive(s)}
-                                className="group relative text-left w-full bg-white rounded-3xl overflow-hidden border border-sage/10 shadow-[0_8px_30px_rgba(122,139,111,0.06)] hover:shadow-[0_22px_50px_rgba(122,139,111,0.18)] hover:-translate-y-1.5 transition-all duration-500 focus:outline-none focus-visible:ring-2 focus-visible:ring-sage"
+                                className="group relative text-left w-full bg-white rounded-3xl overflow-hidden border border-sage/10 shadow-[0_8px_30px_rgba(184,137,61,0.06)] hover:shadow-[0_22px_50px_rgba(184,137,61,0.18)] hover:-translate-y-1.5 transition-all duration-500 focus:outline-none focus-visible:ring-2 focus-visible:ring-sage"
                                 data-testid={`service-card-${s.id}`}
                             >
                                 <div className="relative aspect-[4/3] overflow-hidden">

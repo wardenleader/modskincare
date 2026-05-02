@@ -17,7 +17,7 @@ body {
 
 /* Selection */
 ::selection {
-    background: #7a8b6f;
+    background: #b8893d;
     color: #f5f1ea;
 }
 
@@ -36,19 +36,19 @@ button,
         --card-foreground: 0 0% 17%;
         --popover: 0 0% 100%;
         --popover-foreground: 0 0% 17%;
-        --primary: 95 13% 49%;
+        --primary: 37 51% 48%;
         --primary-foreground: 39 35% 94%;
         --secondary: 39 35% 94%;
-        --secondary-foreground: 95 13% 30%;
+        --secondary-foreground: 37 51% 30%;
         --muted: 39 25% 90%;
-        --muted-foreground: 95 8% 38%;
+        --muted-foreground: 37 25% 38%;
         --accent: 0 36% 73%;
         --accent-foreground: 0 0% 17%;
         --destructive: 0 65% 55%;
         --destructive-foreground: 0 0% 100%;
-        --border: 95 13% 80%;
-        --input: 95 13% 80%;
-        --ring: 95 13% 49%;
+        --border: 37 30% 80%;
+        --input: 37 30% 80%;
+        --ring: 37 51% 48%;
         --radius: 0.75rem;
     }
 }
@@ -67,7 +67,7 @@ button,
     h4,
     h5 {
         font-family: "Cormorant Garamond", Georgia, serif;
-        color: #7a8b6f;
+        color: #b8893d;
         letter-spacing: -0.01em;
     }
 }
@@ -136,7 +136,7 @@ button,
     bottom: 0;
     height: 1.5px;
     width: 100%;
-    background: #7a8b6f;
+    background: #b8893d;
     transform: scaleX(0);
     transform-origin: right center;
     transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);

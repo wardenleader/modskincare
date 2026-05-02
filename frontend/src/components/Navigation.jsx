@@ -39,7 +39,7 @@ export default function Navigation() {
                 transition={{ duration: 0.7, delay: 1.6, ease: [0.22, 1, 0.36, 1] }}
                 className={`fixed top-0 inset-x-0 z-[80] transition-all duration-500 ${
                     scrolled
-                        ? "bg-cream/85 backdrop-blur-xl shadow-[0_2px_24px_rgba(122,139,111,0.08)] py-3"
+                        ? "bg-cream/85 backdrop-blur-xl shadow-[0_2px_24px_rgba(184,137,61,0.08)] py-3"
                         : "bg-transparent py-5"
                 }`}
                 data-testid="site-nav"

@@ -5,7 +5,7 @@ import { Reveal, StaggerGroup, StaggerItem } from "./Reveal";
 
 function InitialAvatar({ initial }) {
     return (
-        <div className="relative w-32 h-32 sm:w-36 sm:h-36 rounded-full bg-cream-50 border border-sage/20 flex items-center justify-center mx-auto shadow-[inset_0_2px_8px_rgba(122,139,111,0.08)]">
+        <div className="relative w-32 h-32 sm:w-36 sm:h-36 rounded-full bg-cream-50 border border-sage/20 flex items-center justify-center mx-auto shadow-[inset_0_2px_8px_rgba(184,137,61,0.08)]">
             <span className="font-serif text-sage text-6xl sm:text-7xl font-light leading-none -mt-1">
                 {initial}
             </span>
@@ -15,7 +15,7 @@ function InitialAvatar({ initial }) {
 
 function PhotoAvatar({ src, alt }) {
     return (
-        <div className="relative w-36 h-36 sm:w-40 sm:h-40 rounded-full mx-auto overflow-hidden border-2 border-cream-50 shadow-[0_8px_24px_rgba(122,139,111,0.15)]">
+        <div className="relative w-36 h-36 sm:w-40 sm:h-40 rounded-full mx-auto overflow-hidden border-2 border-cream-50 shadow-[0_8px_24px_rgba(184,137,61,0.15)]">
             <img
                 src={src}
                 alt={alt}
@@ -65,7 +65,7 @@ export default function Team() {
                         <StaggerItem key={m.id}>
                             <button
                                 onClick={() => setActive(m)}
-                                className="group block w-full text-left bg-cream rounded-3xl overflow-hidden border border-sage/10 shadow-[0_8px_30px_rgba(122,139,111,0.05)] hover:shadow-[0_22px_50px_rgba(122,139,111,0.16)] hover:-translate-y-1 transition-all duration-500 focus:outline-none focus-visible:ring-2 focus-visible:ring-sage"
+                                className="group block w-full text-left bg-cream rounded-3xl overflow-hidden border border-sage/10 shadow-[0_8px_30px_rgba(184,137,61,0.05)] hover:shadow-[0_22px_50px_rgba(184,137,61,0.16)] hover:-translate-y-1 transition-all duration-500 focus:outline-none focus-visible:ring-2 focus-visible:ring-sage"
                                 data-testid={`team-card-${m.id}`}
                             >
                                 <div className="pt-12 pb-8 px-6 bg-cream">

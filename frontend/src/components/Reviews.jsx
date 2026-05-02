@@ -14,7 +14,7 @@ function StatCard({ rating, label, href, testid, max = 5 }) {
             href={href}
             target="_blank"
             rel="noopener noreferrer"
-            className="group block bg-cream rounded-3xl border border-sage/10 p-10 md:p-12 shadow-[0_8px_30px_rgba(122,139,111,0.06)] hover:shadow-[0_22px_50px_rgba(122,139,111,0.16)] hover:-translate-y-1 transition-all duration-500"
+            className="group block bg-cream rounded-3xl border border-sage/10 p-10 md:p-12 shadow-[0_8px_30px_rgba(184,137,61,0.06)] hover:shadow-[0_22px_50px_rgba(184,137,61,0.16)] hover:-translate-y-1 transition-all duration-500"
             data-testid={testid}
         >
             <div className="flex items-center gap-1 text-champagne mb-5">
