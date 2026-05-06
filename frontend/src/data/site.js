@@ -22,9 +22,13 @@ export const SOCIAL = {
 export const POLICIES = [
     "Please note that we strictly enforce our 24 hour cancellation policy.",
     "We accept all payment methods with discounts applied to Zelle, Venmo, Cash, and Check.",
-    "Gratuities are accepted in cash, check, or Venmo. New clients, we recommend that you arrive 10 minutes prior to your first appointment.",
+    "Gratuities are accepted in cash, check, or Venmo.",
+    "New clients, we recommend that you arrive 10 minutes prior to your first appointment.",
     "All prices are subject to change without notice.",
 ];
+
+export const TAGLINE =
+    "A sanctuary where science meets the soul, three generations of beauty, thoughtfully crafted in Burlingame since 1996.";
 export const HOURS = [
     { day: "Monday", hours: "Closed" },
     { day: "Tuesday", hours: "10:30 AM – 6:30 PM" },
