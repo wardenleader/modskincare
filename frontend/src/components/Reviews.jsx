@@ -63,7 +63,7 @@ export default function Reviews() {
 
             <div className="relative max-w-6xl mx-auto px-6 md:px-10 text-center">
                 <Reveal>
-                    <p className="text-champagne tracking-[0.4em] uppercase text-xs mb-5">
+                    <p className="text-[#A07E3F] tracking-[0.35em] uppercase text-sm font-semibold mb-5">
                         Social Proof
                     </p>
                 </Reveal>

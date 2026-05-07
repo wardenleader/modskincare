@@ -12,7 +12,7 @@ export default function About() {
             <div className="relative max-w-6xl mx-auto px-6 md:px-10 grid lg:grid-cols-12 gap-12 lg:gap-20 items-start">
                 <div className="lg:col-span-5 lg:sticky lg:top-32">
                     <Reveal>
-                        <p className="text-champagne tracking-[0.4em] uppercase text-xs mb-6">
+                        <p className="text-[#A07E3F] tracking-[0.35em] uppercase text-sm font-semibold mb-6">
                             Welcome
                         </p>
                     </Reveal>

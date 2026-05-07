@@ -7,7 +7,7 @@ module.exports = {
             fontFamily: {
                 serif: ["'Cormorant Garamond'", "Georgia", "serif"],
                 sans: ["'Manrope'", "ui-sans-serif", "system-ui", "sans-serif"],
-                cursive: ["'Great Vibes'", "cursive"],
+                cursive: ["'Allura'", "'Great Vibes'", "cursive"],
             },
             colors: {
                 // Champagne Gold — accents only (lines, icons, small highlights)

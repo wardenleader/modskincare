@@ -46,7 +46,7 @@ export default function Team() {
             <div className="relative max-w-7xl mx-auto px-6 md:px-10">
                 <div className="text-center">
                     <Reveal>
-                        <p className="text-champagne tracking-[0.4em] uppercase text-xs mb-5">
+                        <p className="text-[#A07E3F] tracking-[0.35em] uppercase text-sm font-semibold mb-5">
                             The Studio
                         </p>
                     </Reveal>

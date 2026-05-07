@@ -24,7 +24,7 @@ export default function GiftCards() {
                     </motion.div>
                 </Reveal>
                 <Reveal delay={0.05}>
-                    <p className="text-champagne tracking-[0.4em] uppercase text-xs mb-5">
+                    <p className="text-[#A07E3F] tracking-[0.35em] uppercase text-sm font-semibold mb-5">
                         Gift Cards
                     </p>
                 </Reveal>

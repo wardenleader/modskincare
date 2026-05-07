@@ -95,7 +95,7 @@ export default function Contact() {
             <div className="relative max-w-7xl mx-auto px-6 md:px-10">
                 <div className="text-center mb-14">
                     <Reveal>
-                        <p className="text-champagne tracking-[0.4em] uppercase text-xs mb-5">
+                        <p className="text-[#A07E3F] tracking-[0.35em] uppercase text-sm font-semibold mb-5">
                             Visit Us
                         </p>
                     </Reveal>

@@ -30,7 +30,7 @@ export default function Services() {
 
             <div className="relative max-w-6xl mx-auto px-6 md:px-10">
                 <Reveal>
-                    <p className="text-champagne tracking-[0.4em] uppercase text-xs mb-5 text-center">
+                    <p className="text-[#A07E3F] tracking-[0.35em] uppercase text-sm font-semibold mb-5 text-center">
                         The Menu
                     </p>
                 </Reveal>

@@ -39,7 +39,7 @@ export default function Story() {
                 {/* Bio */}
                 <div className="lg:col-span-7">
                     <Reveal>
-                        <p className="text-champagne tracking-[0.4em] uppercase text-xs mb-5">
+                        <p className="text-[#A07E3F] tracking-[0.35em] uppercase text-sm font-semibold mb-5">
                             Experience
                         </p>
                     </Reveal>

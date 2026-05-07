@@ -30,7 +30,7 @@ export const services = [
         name: "Waxing",
         tagline: "Smooth, professional finish",
         description:
-            "Professional waxing services performed with care, comfort, and the highest hygienic standards.",
+            "Professional waxing services performed with care, comfort, and the highest hygienic standards. Please note: avoid waxing if you are currently using Retin-A, Accutane, or have recent sun exposure, as the skin may be more sensitive and prone to irritation.",
         images: [
             "https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=1400",
             "https://images.pexels.com/photos/3997391/pexels-photo-3997391.jpeg?auto=compress&cs=tinysrgb&w=1400",

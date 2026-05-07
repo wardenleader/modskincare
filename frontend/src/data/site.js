@@ -17,6 +17,7 @@ export const SOCIAL = {
     twitter: "https://x.com/marlindasdayspa",
     youtube: "https://www.youtube.com/channel/UCXzuv0wbOc2zzogCjsaPWZA/videos",
     linkedin: "https://www.linkedin.com/in/marlinda-wilson-37191216/",
+    yelp: "https://www.yelp.com/biz/marlindas-burlingame",
 };
 
 export const POLICIES = [
