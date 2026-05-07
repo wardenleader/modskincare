@@ -8,9 +8,8 @@ export const services = [
         description:
             "Rejuvenating facials tailored to your unique skin needs. We blend cutting-edge SkinCeuticals and Phytomer products with soothing techniques to hydrate, detoxify, and reveal your natural radiance.",
         images: [
-            "https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=1400",
-            "https://images.pexels.com/photos/3865795/pexels-photo-3865795.jpeg?auto=compress&cs=tinysrgb&w=1400",
-            "https://images.pexels.com/photos/3997385/pexels-photo-3997385.jpeg?auto=compress&cs=tinysrgb&w=1400",
+            "https://customer-assets.emergentagent.com/job_luxury-skincare-spa-1/artifacts/wy5oh3an_image.png",
+            "https://customer-assets.emergentagent.com/job_luxury-skincare-spa-1/artifacts/ucxrslwc_image.png",
         ],
     },
     {
@@ -32,9 +31,9 @@ export const services = [
         description:
             "Professional waxing services performed with care, comfort, and the highest hygienic standards. Please note: avoid waxing if you are currently using Retin-A, Accutane, or have recent sun exposure, as the skin may be more sensitive and prone to irritation.",
         images: [
-            "https://images.pexels.com/photos/3997989/pexels-photo-3997989.jpeg?auto=compress&cs=tinysrgb&w=1400",
-            "https://images.pexels.com/photos/3997391/pexels-photo-3997391.jpeg?auto=compress&cs=tinysrgb&w=1400",
-            "https://images.pexels.com/photos/3985338/pexels-photo-3985338.jpeg?auto=compress&cs=tinysrgb&w=1400",
+            "https://customer-assets.emergentagent.com/job_luxury-skincare-spa-1/artifacts/8a0hk2s6_image.png",
+            "https://customer-assets.emergentagent.com/job_luxury-skincare-spa-1/artifacts/bfix88ed_image.png",
+            "https://customer-assets.emergentagent.com/job_luxury-skincare-spa-1/artifacts/j7rlnj7k_image.png",
         ],
     },
     {
