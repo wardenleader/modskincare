@@ -31,11 +31,11 @@ export const POLICIES = [
 export const TAGLINE =
     "A sanctuary where science meets the soul, three generations of beauty, thoughtfully crafted in Burlingame since 1996.";
 export const HOURS = [
-    { day: "Monday", hours: "Closed" },
-    { day: "Tuesday", hours: "10:30 AM – 6:30 PM" },
-    { day: "Wednesday", hours: "10:30 AM – 6:30 PM" },
-    { day: "Thursday", hours: "10:30 AM – 6:30 PM" },
-    { day: "Friday", hours: "10:30 AM – 6:30 PM" },
-    { day: "Saturday", hours: "9:00 AM – 4:00 PM" },
-    { day: "Sunday", hours: "Closed" },
+    { day: "Monday", hours: "8:00 AM – 8:00 PM" },
+    { day: "Tuesday", hours: "8:00 AM – 8:00 PM" },
+    { day: "Wednesday", hours: "8:00 AM – 8:00 PM" },
+    { day: "Thursday", hours: "8:00 AM – 8:00 PM" },
+    { day: "Friday", hours: "8:00 AM – 8:00 PM" },
+    { day: "Saturday", hours: "8:00 AM – 8:00 PM" },
+    { day: "Sunday", hours: "8:00 AM – 8:00 PM" },
 ];
