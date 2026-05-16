@@ -44,6 +44,7 @@ export const services = [
         images: [
             "https://customer-assets.emergentagent.com/job_luxury-skincare-spa-1/artifacts/2u6226rq_image.png",
             "https://customer-assets.emergentagent.com/job_luxury-skincare-spa-1/artifacts/62ylabs9_image.png",
+            "https://customer-assets.emergentagent.com/job_luxury-skincare-spa-1/artifacts/9lpc6mxm_image.png",
         ],
     },
     {
@@ -55,7 +56,6 @@ export const services = [
         images: [
             "https://customer-assets.emergentagent.com/job_luxury-skincare-spa-1/artifacts/a6o93hz4_image.png",
             "https://customer-assets.emergentagent.com/job_luxury-skincare-spa-1/artifacts/gmmw7qq1_image.png",
-            "https://images.pexels.com/photos/3997385/pexels-photo-3997385.jpeg?auto=compress&cs=tinysrgb&w=1400",
         ],
     },
 ];

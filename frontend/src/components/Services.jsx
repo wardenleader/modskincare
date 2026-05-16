@@ -66,7 +66,7 @@ export default function Services() {
                                         <h3 className="font-serif text-ink text-3xl md:text-4xl leading-tight font-medium">
                                             {s.name}
                                         </h3>
-                                        <p className="mt-3 text-muted-gray text-sm font-light">
+                                        <p className="mt-3 text-ink/75 text-base md:text-lg font-light leading-snug">
                                             {s.tagline}
                                         </p>
                                     </div>
@@ -75,7 +75,7 @@ export default function Services() {
                                     </span>
                                 </div>
 
-                                <div className="mt-7 pt-5 border-t border-champagne/30 flex items-center text-champagne text-[11px] tracking-[0.25em] uppercase font-medium group-hover:text-rose-dark transition-colors">
+                                <div className="mt-7 pt-5 border-t border-champagne/30 flex items-center text-champagne text-[12px] tracking-[0.25em] uppercase font-semibold group-hover:text-rose-dark transition-colors">
                                     View Slideshow
                                     <ArrowRight size={14} strokeWidth={1.5} className="ml-2 transition-transform group-hover:translate-x-1" />
                                 </div>
@@ -120,17 +120,17 @@ export default function Services() {
                             className="relative w-full sm:max-w-3xl bg-cream rounded-t-3xl sm:rounded-3xl overflow-hidden"
                         >
                             {/* Slideshow */}
-                            <div className="relative aspect-[16/10] bg-taupe">
+                            <div className="relative aspect-[16/10] bg-ink flex items-center justify-center">
                                 <AnimatePresence mode="wait">
                                     <motion.img
                                         key={slide}
                                         src={active.images[slide]}
                                         alt={`${active.name} ${slide + 1}`}
-                                        initial={{ opacity: 0, scale: 1.04 }}
+                                        initial={{ opacity: 0, scale: 1.02 }}
                                         animate={{ opacity: 1, scale: 1 }}
                                         exit={{ opacity: 0 }}
                                         transition={{ duration: 0.5, ease: [0.22, 1, 0.36, 1] }}
-                                        className="absolute inset-0 w-full h-full object-cover"
+                                        className="absolute inset-0 w-full h-full object-contain"
                                     />
                                 </AnimatePresence>
 

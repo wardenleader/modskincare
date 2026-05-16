@@ -27,7 +27,7 @@ export default function PageLoader() {
                         <div className="font-cursive text-ink text-7xl sm:text-8xl leading-none">
                             Marlinda's
                         </div>
-                        <div className="mt-4 text-champagne tracking-[0.4em] text-xs uppercase">
+                        <div className="mt-5 text-champagne tracking-[0.5em] text-lg sm:text-xl uppercase font-semibold">
                             Mod Skincare
                         </div>
                     </motion.div>
