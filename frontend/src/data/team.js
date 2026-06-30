@@ -46,12 +46,12 @@ export const team = [
         contact: { label: "Call or text", phone: "(650) 483-6903" },
     },
     {
-        id: "helena",
-        name: "Helena",
-        firstName: "Helena",
-        role: "Nail Technician",
+        id: "nicole",
+        name: "Nicole",
+        firstName: "Nicole",
+        role: "Esthetician",
         image: "https://customer-assets.emergentagent.com/job_luxury-skincare-spa-1/artifacts/crfbbsdj_image.png",
-        bio: "Helena is a seasoned and talented nail technician with over 35 years of experience. Renowned for her dedication to maintaining her clients' nail health, she combines expert care with invigorating conversation. Experience elevated professionalism.",
+        bio: "Nicole became a licensed esthetician in December 2025 after completing the Esthetics Program at Skyline College. With a passion for skincare, beauty, and wellness, she is excited to begin her career at Marlinda’s MOD Skincare. Nicole is dedicated to creating a warm and welcoming experience where clients feel relaxed, cared for, and confident, while helping them achieve their skincare goals through personalized treatments.",
         contact: { label: "Text or call", phone: "(650) 274-2127" },
     },
 ];
